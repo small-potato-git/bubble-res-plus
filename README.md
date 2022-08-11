@@ -1,7 +1,7 @@
-#  Potato-Res-Plus
+#  Bubble-Res-Plus
 
 #### 介绍
-Potato-Res-Plus 是 Potato-Plugin 附件。
+Bubble-Res-Plus 是 Bubble-Plugin 附件。
 
 #### 免责声明
 
